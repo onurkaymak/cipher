@@ -1,6 +1,6 @@
 # _Cipher_
 
-#### By _**Onur Kaymak**_ / [More about developer](https://onurkaymak.com)
+#### By _**Onur Kaymak**_ | [More about developer](https://onurkaymak.com)
 
 _Cipher is practice project for the students who attend **Epicodus** to writing functions for encoding a sentence from the user, as if you wanted to keep someone from reading it._
 
