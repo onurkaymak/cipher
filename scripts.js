@@ -11,3 +11,10 @@ function reverser(converted) {
     const reversed = converted.split('').reverse().join('')
     return reversed
 }
+
+function functionCaller(userInput) {
+    const converted = converter(userInput);
+    const reversed = reverser(converted);
+    const turnTooriginal = userInput + reversed;
+    return turnTooriginal
+}
