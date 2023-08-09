@@ -28,3 +28,6 @@ function counter(userInput, reversedSentence) {
     const reversedAgain = newSentence.split('').reverse().join('')
     window.alert(reversedAgain);
 }
+
+const reversedSentence = functionCaller(userInput);
+counter(userInput, reversedSentence);
